@@ -1,0 +1,2 @@
+Type,ID,Model,MaxSpeed,CurrentMileage,FuelLevel,Passengers,Cargo,AdditionalInfo
+Car,102,mercedes benz,200.0,2000.0,0.0,0,0.0,Wheels:4

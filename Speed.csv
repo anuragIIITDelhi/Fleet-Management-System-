@@ -1,0 +1,6 @@
+Type,ID,Model,MaxSpeed,CurrentMileage,FuelLevel,Passengers,Cargo,AdditionalInfo
+Airplane,AIRPLANE002,Boeing 911,850.0,50000.0,1000.0,0,0.0,Altitude:12500.0
+Car,CAR001,BMW M5,180.0,15000.0,1000.0,0,0.0,Wheels:4
+Truck,TRUCK001,Volvo Jet5,160.0,45000.0,1000.0,0,0.0,Wheels:6
+Bus,BUS003,Ashoka Leyland,120.0,20000.0,1000.0,0,0.0,Wheels:6
+CargoShip,Cargo339,Titanic OilTanker,45.0,150000.0,1000.0,0,0.0,Sail:false
